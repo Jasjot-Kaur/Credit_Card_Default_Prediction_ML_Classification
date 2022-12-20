@@ -1,4 +1,4 @@
-# Credit_Card_Fraud_Prediction_CP3_ML_Classification
+# Credit_Card_Default_Prediction_CP3_ML_Classification
 ____________________________________________________
 
 ## Problem Statement:
